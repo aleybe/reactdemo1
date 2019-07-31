@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+}
+body {
+    background-image: linear-gradient(rgba(0, 122, 156), rgba(2, 150, 191));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+}
+
+.container { 
+    padding-top: 40px; 
+}
